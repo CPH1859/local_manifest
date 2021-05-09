@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+        <remote name="CPH1859"
+                fetch="https://github.com/CPH1859" />
+
+        <project path="device/oppo/CPH1859" name="device_oppo_CPH1859" remote="CPH1859" revision="eleven-ims" clone-depth="1" />
+        <project path="vendor/oppo/CPH1859" name="vendor_oppo_CPH1859" remote="CPH1859" revision="eleven-ims" clone-depth="1" />
+        <project path="Kernel/oppo/mt6771" name="android_kernel_oppo_mt6771" remote="CPH1859" revision="alps" clone-depth="1" />
+
+</manifest>
