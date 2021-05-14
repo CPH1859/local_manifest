@@ -6,6 +6,6 @@
 
         <project path="device/oppo/CPH1859" name="android_device_oppo_CPH1859" remote="CPH1859" revision="eleven-ims" clone-depth="1" />
         <project path="vendor/oppo/CPH1859" name="proprietary_vendor_oppo_CPH1859" remote="CPH1859" revision="eleven-ims" clone-depth="1" />
-        <project path="Kernel/oppo/mt6771" name="android_kernel_oppo_mt6771" remote="CPH1859" revision="alps" clone-depth="1" />
+        <project path="kernel/oppo/mt6771" name="android_kernel_oppo_mt6771" remote="CPH1859" revision="alps" clone-depth="1" />
 
 </manifest>
